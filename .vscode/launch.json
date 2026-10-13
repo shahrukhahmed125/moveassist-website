@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Chrome: Live Server (click Go Live first)",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://127.0.0.1:5500/index.html",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Edge: Live Server (click Go Live first)",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://127.0.0.1:5500/index.html",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Chrome: open index.html directly (no server)",
+      "type": "chrome",
+      "request": "launch",
+      "file": "${workspaceFolder}/index.html"
+    }
+  ]
+}

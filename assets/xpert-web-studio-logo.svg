@@ -1,0 +1,7 @@
+<!-- PLACEHOLDER: replace this file with the official Xpert Web Studio logo (keep the same filename). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32" role="img" aria-label="Xpert Web Studios">
+  <rect x="1" y="1" width="30" height="30" rx="8" fill="#14213D"/>
+  <path d="M9 9l14 14M23 9L9 23" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round"/>
+  <text x="38" y="21" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#14213D">XPERT</text>
+  <text x="84" y="21" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#667085">WEB</text>
+</svg>
